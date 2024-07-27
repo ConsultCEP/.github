@@ -16,3 +16,8 @@ No back-end, utilizei o SQLite por ser adequado para um contexto sem muita compl
 - **Economia de Energia**: Em telas OLED e AMOLED, o modo escuro pode ajudar a economizar bateria, já que os pixels pretos consomem menos energia.
 - **Personalização**: Permitir que os usuários escolham entre os modos pode melhorar a experiência de uso e a satisfação geral com o site.
 - **Acessibilidade**: Oferecer ambos os modos pode tornar o site mais acessível a pessoas com diferentes preferências e necessidades visuais.
+
+## Links
+
+- [Frontend](https://github.com/ConsultCEP/consultation_cep)
+- [Backend](https://github.com/ConsultCEP/consultation_cep_back)
