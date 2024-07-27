@@ -1,6 +1,6 @@
 # Agradecimentos
 
-Boa noite,
+Tudo bem?
 
 Venho de antemão agradecer a oportunidade. Não consegui completar o desafio 100% (ainda está bem quebrado 😅). A ideia para o projeto era permitir a consulta do endereço do usuário a partir de um CEP, logradouro, cidade ou bairro. A implementação está apenas com a parte de busca por CEP, faltando a parte de logradouro, cidade ou bairro. Além disso, há um bug no front-end relacionado a cache que não permite que o usuário realize um GET da mesma chamada mais de uma vez. Os próximos passos seriam a resolução e implementação desses problemas, e então o próximo ponto de melhoria no back-end seria acessar a localização através do IP do usuário.
 
